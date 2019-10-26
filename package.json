@@ -1,0 +1,40 @@
+{
+  "name": "a6e",
+  "version": "0.0.1",
+  "description": "For when you need to continuously work on a single markdown file.",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "res"
+  ],
+  "scripts": {
+    "start": "./bin/a6e.js",
+    "test": "echo 'No tests implemented yet. TODO.' && exit 1"
+  },
+  "author": "João Chapa <reischapa@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-flowtype": "^4.2.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "commander": "^3.0.2",
+    "express": "^4.17.1",
+    "marked": "^0.7.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.4",
+    "rc": "^1.2.8",
+    "reload": "^3.0.2",
+    "winston": "^3.2.1"
+  }
+}
