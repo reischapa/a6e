@@ -15,28 +15,28 @@
   "author": "João Chapa <reischapa@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
-    "eslint": "^6.1.0",
-    "eslint-config-airbnb": "^18.0.1",
-    "eslint-config-prettier": "^6.1.0",
-    "eslint-plugin-html": "^6.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-flowtype": "^4.2.0",
-    "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "^7.14.3",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-flowtype": "^4.7.0",
+    "eslint-plugin-html": "^6.0.2",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.5",
     "eslint-plugin-react-hooks": "^1.7.0",
-    "prettier": "^1.18.2"
+    "prettier": "^1.19.1"
   },
   "dependencies": {
     "commander": "^5.1.0",
     "express": "^4.17.1",
-    "marked": "^1.0.0",
+    "marked": "^1.1.1",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.4",
     "rc": "^1.2.8",
-    "reload": "^3.0.4",
-    "winston": "^3.2.1"
+    "reload": "^3.1.0",
+    "winston": "^3.3.3"
   },
   "bin": {
     "a6e": "./bin/a6e.js"
