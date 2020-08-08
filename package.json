@@ -1,6 +1,6 @@
 {
   "name": "a6e",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "For when you need to continuously work on a single markdown file.",
   "main": "lib/index.js",
   "files": [
